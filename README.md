@@ -7,4 +7,7 @@
 <p>Curso: GPSI – 2.º Ano </p> 
 
 <h2>Objetivo do Projeto</h2>
+<p>O Objetivo deste projeto foi a criação de uma base de dados SQL com um site criado a partir da linguagem de programação PHP. A Base de dados deste projeto tem como objetivo a organização dos computadores respectivos de cada sala, exibindo uma lista deles.
+</p>
+<p>Este Programa também permite a visualização das especificações de Hardware e Software de cada computador individual,</p>
 
