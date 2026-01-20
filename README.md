@@ -5,3 +5,6 @@
 <p>Turma:  2ºI</p>
 <p>Disciplina: REDES – M6 – Programação de Sistemas de Informação</p>  
 <p>Curso: GPSI – 2.º Ano </p> 
+
+<h2>Objetivo do Projeto</h2>
+
