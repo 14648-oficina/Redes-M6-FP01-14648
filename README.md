@@ -11,3 +11,4 @@
 </p>
 <p>Este Programa também permite a visualização das especificações de Hardware e Software de cada computador individual.</p>
 
+<h2>Estrutura do Projeto/h2>
