@@ -58,4 +58,9 @@
 </details>
 <p>As 4 tabelas utilizam as suas Primary Keys respectivas para conectar as informações entre elas, como por exemplo, o Software esteja no Computador correto, o Computador na Sala Correta, Etc...</p>
 
-
+<p>O Site, também disponivel a partir do InfinityFree, possui 3 ficheiros de código .PHP principais.</p>
+<ul>
+      <li>Index.php</li>
+      <li>Config.php</li>
+      <li>Detalhe.php</li>
+</ul>
