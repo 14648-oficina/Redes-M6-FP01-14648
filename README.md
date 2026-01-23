@@ -12,4 +12,5 @@
 <p>Este Programa também permite a visualização das especificações de Hardware e Software de cada computador individual.</p>
 
 <h2>Estrutura do Projeto</h2>
-<p>Este Projeto tem duas partes principais, ambas baseadas no site do InfinityFree. A Base de dados e o Site.</p>
+<p>Este Projeto tem duas partes principais, ambas baseadas no site do InfinityFree. A Base de dados SQL e o Site PHP.</p>
+<p>A Base de dados e os seus dados são geridos e guardados num servidor da InfinityFree com recurso php-myadmin.net. Esta Base de Dados </p>
