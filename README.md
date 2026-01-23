@@ -19,6 +19,8 @@
   <summary>Tabelas</summary>
   <details>
     <summary>Computadores</summary>
+    * ID_Computador (PK)
+    * Nome_Computador
   </details>
 </details>
 
