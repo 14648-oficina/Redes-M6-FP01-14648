@@ -37,6 +37,25 @@
       <li>Nome_Salas</li>
       <li>Localização</li>
     </ul>
+    
+  </details>
+  <details>
+    <summary>Software</summary>
+    <ul>
+      <li>ID_Software (PK)</li>
+      <li>Nome_Software</li>
+      <li>Versão</li>
+    </ul>
+    
+  </details>
+   <details>
+    <summary>Software_Computadores</summary>
+    <ul>
+      <li>ID_Computador (FK)</li>
+      <li>ID_Software (FK)</li>
+    </ul>
   </details>
 </details>
+<p>As 4 tabelas utilizam as suas Primary Keys respectivas para conectar as informações entre elas, como por exemplo, o Software esteja no Computador correto, o Computador na Sala Correta, Etc...</p>
+
 
