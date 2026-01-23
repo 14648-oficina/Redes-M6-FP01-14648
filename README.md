@@ -13,8 +13,12 @@
 
 <h2>Estrutura do Projeto</h2>
 <p>Este Projeto tem duas partes principais, ambas baseadas no site do InfinityFree. A Base de dados SQL e o Site PHP.</p>
-<p>A Base de dados e os seus dados são geridos e guardados num servidor da InfinityFree com recurso php-myadmin.net. Esta Base de Dados tem 4 tabelas: Computadores, Salas, Software e Computador_Software</p>
+<p>A Base de dados e os seus dados são geridos e guardados num servidor da InfinityFree com recurso php-myadmin.net. Esta Base de Dados tem 4 tabelas: Computadores, Salas, Software e Computador_Software.</p>
+<p>As 4 tabelas têm multiplos atributos além das Primary Keys, que pode ser vistos abaixo:</p>
 <details>
-  hi
+  <summary>Tabelas</summary>
+  <details>
+    <summary>Computadores</summary>
+  </details>
 </details>
 
