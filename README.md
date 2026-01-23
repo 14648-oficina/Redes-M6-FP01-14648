@@ -11,4 +11,5 @@
 </p>
 <p>Este Programa também permite a visualização das especificações de Hardware e Software de cada computador individual.</p>
 
-<h2>Estrutura do Projeto/h2>
+<h2>Estrutura do Projeto</h2>
+<p>Este Projeto tem duas partes principais, ambas baseadas no site do InfinityFree. A Base de dados e o Site.</p>
