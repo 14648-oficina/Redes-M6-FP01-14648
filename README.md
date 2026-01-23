@@ -19,12 +19,23 @@
   <summary>Tabelas</summary>
   <details>
     <summary>Computadores</summary>
-    * ID_Computador (PK)
     <ul>
-      <li>First item</li>
-      <li>Second item</li>
-      <li>Third item</li>
-      <li>Fourth item</li>
+      <li>ID_Computador (PK)</li>
+      <li>Nome_Computador</li>
+      <li>Processador</li>
+      <li>RAM</li>
+      <li>Armazenamento</li>
+      <li>Placa_Grafica</li>
+      <li>Sistema_Operativo</li>
+      <li>ID_Sala(FK)</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Salas</summary>
+    <ul>
+      <li>ID_Sala (PK)</li>
+      <li>Nome_Salas</li>
+      <li>Localização</li>
     </ul>
   </details>
 </details>
