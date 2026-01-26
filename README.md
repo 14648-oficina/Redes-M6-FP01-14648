@@ -67,3 +67,7 @@
 
 <p>O Config.php serve para fazer a conexão da database com o site.</p>
 <p>O Index.php é a página principal do site. É Aqui onde podem-se ver os computadores, selecionar entre listas de computadores e ver-los. Nesta página é possivel também aceder ao Detalhe.php</p>
+<p>O Detalhe.php é a página aonde são exibidas as informações especificas dos computadores, como softwares e specs.</p>
+
+<h2>Funcionalidades do Projeto</h2>
+
