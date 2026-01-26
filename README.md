@@ -84,4 +84,4 @@
 </details>
 
 <h2>Utilização de AI</h2>
-
+<p>Neste Projeto não utilizei ajuda da AI e tentei fazer o máximo de progresso possivel sem a consultar.</p>
