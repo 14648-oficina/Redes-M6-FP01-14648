@@ -70,4 +70,10 @@
 <p>O Detalhe.php é a página aonde são exibidas as informações especificas dos computadores, como softwares e specs.</p>
 
 <h2>Funcionalidades do Projeto</h2>
-
+<p>O Projeto desinvolvido possui bastantes funcionalidades que servem para melhorar a experiencia dos utilizadores. As Funcionalidadee estão escritas abaixo</p>
+<details>
+  <summary>Funcionalidades</summary>
+  <ul>
+    <li>Listagem de Computadores</li>
+  </ul>
+</details>
