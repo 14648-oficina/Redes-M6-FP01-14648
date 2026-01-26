@@ -95,5 +95,6 @@
   </ul>
 </details>
 <h2>Dificuldades Encontradas no Projeto</h2>
+<p></p>
 <h2>Link Para O Projeto</h2>
 <a href="https://a14648-oficina.infinityfree.me/m6-inventario/index.php">Site InfinityFree</a>
