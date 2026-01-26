@@ -86,6 +86,14 @@
 <h2>Utilização de AI</h2>
 <p>Neste Projeto não utilizei ajuda da AI e tentei fazer o máximo de progresso possivel sem a consultar.</p>
 <h2>Trabalho Desinvolvido Manualmente</h2>
-
+<p>Na Lista a baixo podem-se ver todas as funcionalidades que desenvolvi manualmente</p>
+<details>
+  <summary>Trabalho desinvolvido Manualmente</summary>
+  <ul>
+    <li>Tentativa de contador de computadores, que não consegui completamente terminar a tempo</li>
+    <li>Mudança da cor do layout</li>
+  </ul>
+</details>
+<h2>Dificuldades Encontradas no Projeto</h2>
 <h2>Link Para O Projeto</h2>
 <a href="https://a14648-oficina.infinityfree.me/m6-inventario/index.php">Site InfinityFree</a>
