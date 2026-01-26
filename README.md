@@ -75,5 +75,7 @@
   <summary>Funcionalidades</summary>
   <ul>
     <li>Listagem de Computadores</li>
+    <li>Sincronização com a Database do Infinity Free</li>
+    <li>Organização Dinámica Simples de Entender</li>
   </ul>
 </details>
