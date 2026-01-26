@@ -88,4 +88,4 @@
 <h2>Trabalho Desinvolvido Manualmente</h2>
 
 <h2>Link Para O Projeto</h2>
-<a href="https://www.w3schools.com](https://a14648-oficina.infinityfree.me/m6-inventario/?i=1">https://a14648-oficina.infinityfree.me/m6-inventario/?i=1</a>
+<a href="https://a14648-oficina.infinityfree.me/m6-inventario/index.php">Site InfinityFree</a>
