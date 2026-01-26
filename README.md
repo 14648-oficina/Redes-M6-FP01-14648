@@ -77,5 +77,11 @@
     <li>Listagem de Computadores</li>
     <li>Sincronização com a Database do Infinity Free</li>
     <li>Organização Dinámica Simples de Entender</li>
+    <li>Página dos detalhes do computadors</li>
+    <li>Pesquisa por Sala</li>
+    <li>Mudança de cor do layout</li>
   </ul>
 </details>
+
+<h2>Utilização de AI</h2>
+
