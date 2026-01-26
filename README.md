@@ -85,3 +85,7 @@
 
 <h2>Utilização de AI</h2>
 <p>Neste Projeto não utilizei ajuda da AI e tentei fazer o máximo de progresso possivel sem a consultar.</p>
+<h2>Trabalho Desinvolvido Manualmente</h2>
+
+<h2>Link Para O Projeto</h2>
+<a href="https://www.w3schools.com](https://a14648-oficina.infinityfree.me/m6-inventario/?i=1">https://a14648-oficina.infinityfree.me/m6-inventario/?i=1</a>
